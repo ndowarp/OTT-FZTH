@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "269699767679",
+    "project_id": "tmdb-demo-app-9f29a",
+    "storage_bucket": "tmdb-demo-app-9f29a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269699767679:android:4d94ecf626ec32f6758e4a",
+        "android_client_info": {
+          "package_name": "com.example.fzthtv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269699767679-6lbl3370v1jfgbgnc3m1upe58gi79oa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF5Qo14Av85QWwwEoUowNI51OhisOYQX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269699767679-6lbl3370v1jfgbgnc3m1upe58gi79oa4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269699767679:android:9c8417ca9246924c758e4a",
+        "android_client_info": {
+          "package_name": "com.globant.fzth.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269699767679-6lbl3370v1jfgbgnc3m1upe58gi79oa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF5Qo14Av85QWwwEoUowNI51OhisOYQX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269699767679-6lbl3370v1jfgbgnc3m1upe58gi79oa4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
